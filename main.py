@@ -9,7 +9,7 @@ import os
 
 JOKE = (
     "My calendar has a meeting to plan the meeting, a meeting to recap it, "
-    "and a 15-minute 'focus time' slot that HR uses to book more meetings."
+    "and one 15-minute focus block — which HR uses to schedule more meetings."
 )
 
 
